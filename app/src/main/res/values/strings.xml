@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FactCal</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="calculate">Calculate</string>
+</resources>
